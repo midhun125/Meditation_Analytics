@@ -14,5 +14,6 @@ This Python script performs data analysis and visualization on two datasets: "wo
 Run `Meditation_Analytics.ipynb`
 
 When you run the ipynb file in jupyter notebook, it will analyse the data and show the visualizations
+![Screenshot 2024-05-08 170948](https://github.com/midhun125/Meditation_Analytics/assets/169189768/aaad33c6-37e1-4046-9d6c-fecc456bd4d3)
 
 
